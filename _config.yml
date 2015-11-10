@@ -1,6 +1,6 @@
 name: Trying it out
 favicon: null
-layout_spectrum: 0.20669535617344081
+layout_spectrum: 0.88636
 typography_spectrum: 0.17781571322120726
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#939393'
     - '#292929'
   brandStrength: 0.5
-  lightness: 0.8377130723092705
-  saturation: 0.2210310527589172
-  rhythmicContrast: 0.9515161816962063
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
